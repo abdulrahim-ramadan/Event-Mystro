@@ -1,5 +1,5 @@
 # Event page
- Event page using html , css , bootstrap &amp; Javascript 
+ Event page using html , css , bootstrap &amp; Javascript ,Photoshop
 
  
 
