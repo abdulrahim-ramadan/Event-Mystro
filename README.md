@@ -1,4 +1,7 @@
-Landing page using html , css , bootstrap & Javascript 
+# Event page
+ Event page using html , css , bootstrap &amp; Javascript 
+
+ 
 
 
 
