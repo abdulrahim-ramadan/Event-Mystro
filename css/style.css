@@ -1,0 +1,218 @@
+body{
+    font-family: 'Poppins', sans-serif;
+  }
+  .banner-title{
+    font-size: 65px;
+  }
+.fw-lighter{
+    font-family:'Arial',sans-serif;
+    color: #25aae1;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-size: 20px;
+}
+  .card{
+    transition: 0,3;
+  }
+  .card:hover{
+    margin-top: -15px;
+    
+  }
+ 
+
+/* start title */
+  .sub-title{
+    line-height: 60px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    font-size: 48px;
+  }
+  /* end title */
+
+  /* start img */
+.img-image {
+  margin-top: 30px;
+opacity: 1;
+transition: opacity 0.5s ease;
+max-width: 100%;
+margin-bottom: 40px;
+margin-left: -70px;
+}
+/* end img */
+
+
+
+
+/* start hover img */
+
+.img-image:hover {
+opacity: 0.5;
+}
+.card-title{
+  font-family: Arial, Helvetica, sans-serif;
+   color: #2bb673;
+}
+.fw-border{
+color: #25aae1;
+}
+.title-baner{
+  color: #0ba360;
+}
+.registration-image{
+  opacity: 1;
+transition: opacity 0.5s ease;
+margin-left: -69px;
+max-width: 100%;
+margin-bottom: 50px;
+}
+.registration-image:hover {
+  opacity: 0.5;
+  }
+  .sub-style{
+    color: #25aae1;
+    font-family:'Arial',sans-serif;
+  }
+  .full-width-section{
+    background-color: aliceblue;
+  }
+.bewert-image{
+  opacity: 1;
+transition: opacity 0.5s ease;
+max-width: 170%;
+
+}
+.main-style{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  font-size: medium;
+  color: #25aae1;
+  /* end hover*/
+}
+/* start btn Sign up Now  */
+.bn39 {
+  background-image: linear-gradient(135deg, #008aff, #86d472);
+  border-radius: 6px;
+  box-sizing: border-box;
+  color: #ffffff;
+  display: block;
+  height: 50px;
+  font-size: 1.4em;
+  font-weight: 600;
+  padding: 4px;
+  position: relative;
+  text-decoration: none;
+  width: 7em;
+  z-index: 2;
+}
+
+.bn39:hover {
+  color: #fff;
+}
+
+.bn39 .bn39span {
+  align-items: center;
+  background: #0e0e10;
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  transition: background 0.5s ease;
+  width: 100%;
+}
+
+.bn39:hover .bn39span {
+  background: transparent;
+}
+/* end btn Sign up Now  */
+
+/* start btn Go somewhere  */
+.bn632-hover {
+  width: 160px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  margin: 20px;
+  height: 55px;
+  text-align:center;
+  border: none;
+  background-size: 300% 100%;
+  border-radius: 50px;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.bn632-hover:hover {
+  background-position: 100% 0;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.bn632-hover:focus {
+  outline: none;
+}
+
+.bn632-hover.bn25 {
+  background-image: linear-gradient(
+    to right,
+    #29323c,
+    #485563,
+    #2b5876,
+    #4e4376
+  );
+  box-shadow: 0 4px 15px 0 rgba(45, 54, 65, 0.75);
+}
+/* end btn Go somewhere  */
+
+ /* btn ser  start*/
+ .bn632-hover {
+  width: 160px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  margin: 20px;
+  height: 55px;
+  text-align:center;
+  border: none;
+  background-size: 300% 100%;
+  border-radius: 50px;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.bn632-hover:hover {
+  background-position: 100% 0;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.bn632-hover:focus {
+  outline: none;
+}
+
+.bn632-hover.bn26 {
+  background-image: linear-gradient(
+    to right,
+    #25aae1,
+    #4481eb,
+    #04befe,
+    #3f86ed
+  );
+  box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+}
+/* btn ser end*/
+
+
+
+
+   
+
