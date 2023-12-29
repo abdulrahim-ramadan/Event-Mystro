@@ -1,4 +1,4 @@
-# Event page⭐
+# Event page.⭐
  Event page using html , css , bootstrap &amp; Javascript ,Photoshop
 
  
@@ -6,7 +6,7 @@
 
 
 
-### Demo
+#Demo
 ![project demo](screenshot1.png)
 
 
