@@ -20,11 +20,8 @@ Check out the live demo of Event Mystro [here](https://abdulrahim-ramadan.github
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JSON Web Tokens (JWT)
-- **Deployment:** Heroku
+- **Frontend:** HTML, CSS, bootstrap , JavaScript 
+
 
 ## Installation
 
@@ -39,21 +36,9 @@ Check out the live demo of Event Mystro [here](https://abdulrahim-ramadan.github
    Navigate to the project directory and install the necessary dependencies using npm:
 
    ```bash
-   cd Event-Mystro
-   npm install
+   cd Event-Mystro install
    ```
 
-3. **Set Environment Variables:**
-
-   Create a `.env` file in the root directory and specify the required environment variables, including database connection URI, JWT secret key, etc.
-
-4. **Run the Application:**
-
-   Start the application by running the following command:
-
-   ```bash
-   npm start
-   ```
 
    The application will be accessible at `http://localhost:3000`.
 
